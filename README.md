@@ -1,5 +1,5 @@
 ## 🔴About
-This is a forest-themed Side Scrolling game in which the player is given an objective to get pass evry obstacle to reach the finish point.
+This is a forest-themed Side Scrolling game in which the player is given an objective to get pass every obstacle to reach the finish point.
 <br>
 
 ## 🕹️Play Game
