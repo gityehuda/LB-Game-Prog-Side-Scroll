@@ -20,6 +20,7 @@ The game can be downloaded via itch.io with this link: https://yehuda-ekglecia.i
     ├── Prefabs             # This folder contains all prefabs used in the game development
     ├── Scenes              # This folder contains all Scenes 
     ├── Script              # This folder contains all scripts
+    ├── Sprites             # Contains all sprites used in the game
     ├── TextMesh Pro        # This folder contains all features and fonts for writing text using TextMesh Pro
   ├── Packages
   ├── ProjectSettings
